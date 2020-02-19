@@ -9,7 +9,7 @@ Feature: Login functionality of amazon website with multiple credentials
     
     When  Enter the <email> and <password>
     
-    Then Login to the application
+    Then  Click On SignIn Button
 
     Examples: 
       | email                    | password  | 
